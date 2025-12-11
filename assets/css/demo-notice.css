@@ -1,0 +1,272 @@
+/**
+ * Demo Notice CSS
+ *
+ * Styles for the demo import admin notice.
+ */
+.fossil-demo-notice {
+    position: relative;
+    padding: 15px;
+    border-left-color: #2271b1;
+}
+
+.fossil-demo-notice h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.fossil-demo-notice-content {
+    padding-right: 30px;
+}
+
+.fossil-demo-notice-actions {
+    margin-top: 15px;
+}
+.notice.notice-info.is-dismissible.fossil-documentation-notice {
+    padding: 30px 20px;
+}
+a.button.button-primary.fn-btn {
+    padding: 10px 30px;
+    font-weight: 700;
+    margin-right: 10px;
+}
+.fossil-demo-notice-actions .button {
+    margin-right: 10px;
+}
+
+.fossil-demo-notice .notice-dismiss {
+    text-decoration: none;
+}
+
+/**
+ * Upgrade Pro Notice Styles
+ */
+.fossil-upgrade-notice {
+    position: relative;
+    border-left-color: #ff5f6d !important;
+    padding: 20px !important;
+    margin: 15px 0;
+}
+
+.fossil-upgrade-notice-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 30px; /* Make room for the dismiss button */
+}
+
+.fossil-upgrade-notice-text {
+    flex: 1;
+}
+
+.fossil-upgrade-notice-text h3 {
+    margin-top: 0;
+    color: #23282d;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.fossil-upgrade-notice-text p {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.fossil-upgrade-notice-actions {
+    margin-left: 20px;
+    text-align: center;
+}
+
+.fossil-upgrade-pro-btn {
+    background: linear-gradient(135deg, #ff5f6d 0%, #c30010 100%) !important;
+    color: #ffffff !important;
+    border-color: #c30010 !important;
+    font-weight: 600 !important;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2) !important;
+    transition: all 0.3s ease !important;
+    padding: 10px 20px !important;
+    font-size: 14px !important;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+.fossil-upgrade-pro-btn:hover, 
+.fossil-upgrade-pro-btn:focus {
+    background: linear-gradient(135deg, #ff4c5d 0%, #a80000 100%) !important;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3) !important;
+    color: #ffffff !important;
+}
+
+.fossil-upgrade-pro-btn:active {
+    transform: translateY(0);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2) !important;
+}
+
+.fossil-dismiss-link {
+    display: block;
+    margin-top: 10px;
+    color: #72777c;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.fossil-dismiss-link:hover {
+    color: #23282d;
+}
+
+/* Fix WordPress dismiss button position */
+.fossil-upgrade-notice .notice-dismiss {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 0;
+    color: #72777c;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 782px) {
+    .fossil-upgrade-notice-content {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .fossil-upgrade-notice-actions {
+        margin-left: 0;
+        margin-top: 15px;
+        align-self: flex-start;
+    }
+}
+.notice.notice-info.is-dismissible.fossil-documentation-notice {
+    padding: 30px 20px;
+}
+
+.fossil-documentation-notice ul {
+    margin-left: 10px;
+    padding-left: 10px;
+    list-style: circle;
+}
+
+.fossil-documentation-notice ul li {
+    margin-bottom: 10px;
+}
+a.button.button-primary.fn-btn {
+    padding: 10px 30px;
+    font-weight: 700;
+    margin-right: 10px;
+}
+.fossil-demo-notice-actions .button {
+    margin-right: 10px;
+}
+
+.fossil-demo-notice .notice-dismiss {
+    text-decoration: none;
+}
+/**
+ * Upgrade Pro Notice Styles
+ */
+.fossil-upgrade-notice {
+    position: relative;
+    border-left-color: #ff5f6d !important;
+    padding: 20px !important;
+    margin: 15px 0;
+}
+
+.fossil-upgrade-notice-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 30px;
+    /* Make room for the dismiss button */
+}
+
+.fossil-upgrade-notice-text {
+    flex: 1;
+}
+
+.fossil-upgrade-notice-text h3 {
+    margin-top: 0;
+    color: #23282d;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.fossil-upgrade-notice-text p {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.fossil-upgrade-notice-actions {
+    margin-left: 20px;
+    text-align: center;
+}
+
+.fossil-upgrade-pro-btn {
+    background: linear-gradient(135deg, #ff5f6d 0%, #c30010 100%) !important;
+    color: #ffffff !important;
+    border-color: #c30010 !important;
+    font-weight: 600 !important;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2) !important;
+    transition: all 0.3s ease !important;
+    padding: 10px 20px !important;
+    font-size: 14px !important;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+.fossil-upgrade-pro-btn:hover,
+.fossil-upgrade-pro-btn:focus {
+    background: linear-gradient(135deg, #ff4c5d 0%, #a80000 100%) !important;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3) !important;
+    color: #ffffff !important;
+}
+
+.fossil-upgrade-pro-btn:active {
+    transform: translateY(0);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2) !important;
+}
+
+.fossil-dismiss-link {
+    display: block;
+    margin-top: 10px;
+    color: #72777c;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.fossil-dismiss-link:hover {
+    color: #23282d;
+}
+
+/* Fix WordPress dismiss button position */
+.fossil-upgrade-notice .notice-dismiss {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 0;
+    color: #72777c;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 782px) {
+    .fossil-upgrade-notice-content {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .fossil-upgrade-notice-actions {
+        margin-left: 0;
+        margin-top: 15px;
+        align-self: flex-start;
+    }
+}

@@ -1,0 +1,752 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fossil\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-11 00:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
+"X-Domain: fossil"
+
+#. %s: number of comments
+#: inc/template-tags.php:142
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:172
+msgid ", "
+msgstr ""
+
+#: 404.php:22
+msgid "404"
+msgstr ""
+
+#. 404 page
+#: inc/fossil-breadcrumbs.php:33 inc/fossil-breadcrumbs.php:99
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/customizer/customizer.php:113 inc/header/header-parts.php:14
+msgid "66, Broklyn St, New York, USA"
+msgstr ""
+
+#: functions.php:139 functions.php:151
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/template-functions.php:127
+msgid "All rights reserved"
+msgstr ""
+
+#. Name of the template
+#: all-services-template.php:2
+msgid "All Services"
+msgstr ""
+
+#: 404.php:27
+msgid "Back to Home"
+msgstr ""
+
+#: inc/fossil-breadcrumbs.php:50
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:55
+msgid "Body Font"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:85
+msgid "Body font line height"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:70
+msgid "Body font size"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:121
+msgid "Bold"
+msgstr ""
+
+#: inc/customizer/customizer.php:331
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:347
+msgid "Button Url"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:140
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/customizer.php:416
+msgid "Classic Style"
+msgstr ""
+
+#: comments.php:33
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/recommended-plugin.php:66
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/customizer/customizer.php:372
+msgid "Container type"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-service.php:49 template-parts/content.php:39
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/template-functions.php:157
+msgid "Create A Template"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:56
+msgid "Default body font is Outfit"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:71
+msgid "Default body font size is 16px"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:86
+msgid "Default body line height is 28px"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:101
+msgid "Default header font is Outfit"
+msgstr ""
+
+#: inc/customizer/customizer.php:686
+msgid "Display Footer Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:91
+msgid "Display Header Top"
+msgstr ""
+
+#: inc/customizer/customizer.php:589
+msgid "Display Subscribe Newsletter"
+msgstr ""
+
+#: inc/customizer/customizer.php:575
+msgid "Display Top Footer"
+msgstr ""
+
+#: inc/template-functions.php:155
+msgid "don't available Template "
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:209
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/recommended-plugin.php:56
+msgid "Elementor"
+msgstr ""
+
+#: inc/customizer/customizer.php:105
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer/customizer.php:352
+msgid "Enter the url for the button displayed in the header."
+msgstr ""
+
+#: inc/header/header-parts.php:21
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/customizer.php:158
+msgid "Facebook url"
+msgstr ""
+
+#: functions.php:56
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:687
+msgid ""
+"Footer menu will only be displayed if a footer menu is set in Appearance -> "
+"Menus"
+msgstr ""
+
+#: inc/customizer/customizer.php:671
+msgid "Footer text"
+msgstr ""
+
+#: inc/customizer/customizer.php:672
+msgid "Footer text change by this field"
+msgstr ""
+
+#: functions.php:149
+msgid "Footer Widget"
+msgstr ""
+
+#: footer.php:20 inc/customizer/customizer.php:601
+msgid "For Any Update"
+msgstr ""
+
+#: inc/customizer/customizer.php:641
+msgid "For Footer Top?"
+msgstr ""
+
+#. Name of the theme
+msgid "Fossil"
+msgstr ""
+
+#: inc/customizer/customizer.php:358
+msgid "Fossil Blog Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:656
+msgid "Fossil Footer Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:78
+msgid "Fossil Header Top Settings"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Fossil is a EV Charging &amp; Gas Station WordPress Theme. Fossil is a "
+"premium WordPress theme crafted for energy and fuel businesses. With its "
+"modern interface and extensive customization options, it’s perfect for EV "
+"charging stations, gas stations, and eco-friendly initiatives."
+msgstr ""
+
+#: inc/customizer/customizer.php:523
+msgid "Fossil page Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:75
+msgid "Fossil Theme All Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:360
+msgid "Fossil theme blog settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:658
+msgid "Fossil theme footer settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:525
+msgid "Fossil theme page settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:74
+msgid "Fossil Theme settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:564
+msgid "Fossil theme top footer settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:80
+msgid "Fossil theme top header settings"
+msgstr ""
+
+#: inc/recommended-plugin.php:47
+msgid "Fossil Toolkit"
+msgstr ""
+
+#: inc/customizer/customizer.php:562
+msgid "Fossil Top Footer Settings"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:43
+msgid "Fossil Typography"
+msgstr ""
+
+#: inc/customizer/customizer.php:379 inc/customizer/customizer.php:544
+msgid "Full width Container"
+msgstr ""
+
+#. Name of the template
+#: template-fullpage.php:3
+msgid "Fullpage Template"
+msgstr ""
+
+#. Name of the template
+#: template-fullwidth.php:3
+msgid "Fullwidth Template"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:10
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:326 inc/header/header-parts.php:158
+#: inc/header/header-parts.php:292
+msgid "Get Quote"
+msgstr ""
+
+#: inc/customizer/customizer.php:415
+msgid "Grid Style"
+msgstr ""
+
+#: inc/customizer/customizer.php:118
+msgid "Header Address"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:100
+msgid "Header Font"
+msgstr ""
+
+#: inc/customizer/customizer.php:205
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:131
+msgid "Header Slogan"
+msgstr ""
+
+#: inc/customizer/customizer.php:218
+msgid "Header Style"
+msgstr ""
+
+#: inc/customizer/customizer.php:272
+msgid "Header style info text goes here."
+msgstr ""
+
+#: inc/customizer/customizer.php:257
+msgid "Header style place text goes here."
+msgstr ""
+
+#: inc/customizer/customizer.php:242
+msgid "Header style time text goes here."
+msgstr ""
+
+#: inc/fossil-breadcrumbs.php:41
+msgid "Home"
+msgstr ""
+
+#. URI of the theme
+msgid "https://fullsitediting.com/fossil"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wpthemespace.com"
+msgstr ""
+
+#: inc/customizer/customizer.php:267
+msgid "Info Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:100 inc/header/header-parts.php:13
+msgid "info@example.com"
+msgstr ""
+
+#: inc/header/header-parts.php:26
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/customizer.php:171
+msgid "Instagram url"
+msgstr ""
+
+#: inc/template-functions.php:161
+msgid "Install & active Elementor"
+msgstr ""
+
+#: template-parts/content-none.php:50
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/template-functions.php:195
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:192
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/customizer/customizer.php:398 inc/customizer/customizer.php:463
+msgid "Left Sidebar"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:179
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/recommended-plugin.php:61
+msgid "Magical Addons"
+msgstr ""
+
+#: inc/recommended-plugin.php:71
+msgid "Mailchimp for WordPress"
+msgstr ""
+
+#: functions.php:55
+msgid "Main Menu"
+msgstr ""
+
+#: single.php:51
+msgid "Next:"
+msgstr ""
+
+#: all-services-template.php:72
+msgid "No services found."
+msgstr ""
+
+#: inc/customizer/customizer.php:399 inc/customizer/customizer.php:464
+msgid "No Sidebar"
+msgstr ""
+
+#. Author of the theme
+msgid "Noor Alam"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:120
+msgid "Normal"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/recommended-plugin.php:76
+msgid "One Click Demo Import"
+msgstr ""
+
+#: 404.php:26
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/customizer.php:537
+msgid "Page Container"
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content.php:52
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/customizer.php:252
+msgid "Place Text"
+msgstr ""
+
+#: inc/template-functions.php:202
+msgctxt "placeholder"
+msgid "Search..."
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:49
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:32
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:175
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:22
+msgid "Preloader Show?"
+msgstr ""
+
+#: single.php:50
+msgid "Previous:"
+msgstr ""
+
+#: all-services-template.php:58 template-parts/content-grid.php:19
+#: template-parts/content-search.php:27 inc/customizer/customizer.php:423
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/customizer.php:428
+msgid "Read More text"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:30
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer/customizer.php:392 inc/customizer/customizer.php:457
+msgid "Right and Left sidebar only show when sidebar widget is available. "
+msgstr ""
+
+#: inc/customizer/customizer.php:397 inc/customizer/customizer.php:462
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:293 inc/header/header-parts.php:204
+msgid "Search for anything."
+msgstr ""
+
+#: inc/customizer/customizer.php:298
+msgid "Search Label"
+msgstr ""
+
+#. Search results
+#: inc/fossil-breadcrumbs.php:96
+msgid "Search Results"
+msgstr ""
+
+#. %s: search query
+#: inc/fossil-breadcrumbs.php:31
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: inc/customizer/customizer.php:391
+msgid "Select Blog Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:410
+msgid "Select Blog Style"
+msgstr ""
+
+#: inc/customizer/customizer.php:456
+msgid "Select Single Blog Layout"
+msgstr ""
+
+#: inc/template-functions.php:143
+msgid "Select Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:315
+msgid "Show Header Button"
+msgstr ""
+
+#: inc/customizer/customizer.php:144
+msgid "Show Header Social Icons?"
+msgstr ""
+
+#: inc/customizer/customizer.php:555
+msgid "Show Page Comment?"
+msgstr ""
+
+#: inc/customizer/customizer.php:442
+msgid "Show Post meta?"
+msgstr ""
+
+#: inc/customizer/customizer.php:284
+msgid "Show Search Icon"
+msgstr ""
+
+#: inc/customizer/customizer.php:489
+msgid "Show Single Post Author Bio?"
+msgstr ""
+
+#: inc/customizer/customizer.php:515
+msgid "Show Single Post Comment?"
+msgstr ""
+
+#: inc/customizer/customizer.php:502
+msgid "Show Single Post Navigation?"
+msgstr ""
+
+#: inc/customizer/customizer.php:476
+msgid "Show Single Post Title Meta?"
+msgstr ""
+
+#: inc/customizer/customizer.php:66
+msgid "Show Site Tagline?"
+msgstr ""
+
+#: functions.php:137
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:115
+msgid "Site header font weight"
+msgstr ""
+
+#: header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: inc/header/header-parts.php:36
+msgid "Skype"
+msgstr ""
+
+#: inc/customizer/customizer.php:197
+msgid "Skype url"
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer/general-customizer.php:138
+msgid "Standard"
+msgstr ""
+
+#: inc/customizer/customizer.php:378 inc/customizer/customizer.php:543
+msgid "Standard Container"
+msgstr ""
+
+#: inc/customizer/customizer.php:223
+msgid "Style One"
+msgstr ""
+
+#: inc/customizer/customizer.php:225
+msgid "Style Three"
+msgstr ""
+
+#: inc/customizer/customizer.php:224
+msgid "Style Two"
+msgstr ""
+
+#: inc/template-functions.php:204
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/customizer.php:623
+msgid "Subscribe Form Shortcode"
+msgstr ""
+
+#: footer.php:19 inc/customizer/customizer.php:600
+msgid "Subscribe newsletter"
+msgstr ""
+
+#: inc/customizer/customizer.php:607
+msgid "Subscribe Newsletter Title"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:182
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/customizer/customizer.php:640
+msgid "Template For Footer Top"
+msgstr ""
+
+#: inc/customizer/customizer.php:336
+msgid "Text for the button displayed in the header."
+msgstr ""
+
+#: inc/customizer/general-customizer.php:132
+msgid "Text transport"
+msgstr ""
+
+#: inc/customizer/customizer.php:303
+msgid "The search label displayed in the search popup."
+msgstr ""
+
+#: inc/customizer/general-customizer.php:146
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:162
+msgid "Theme primary color"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:181
+msgid "Theme secondary color"
+msgstr ""
+
+#: inc/customizer/customizer.php:237
+msgid "Time Text"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:36
+msgid "Title Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:319
+msgid "Toggle to display or hide the button in the header."
+msgstr ""
+
+#: inc/customizer/customizer.php:288
+msgid "Toggle to display or hide the search icon in the header."
+msgstr ""
+
+#: inc/customizer/customizer.php:126 inc/header/header-parts.php:15
+msgid "Turning big ideas into great services!"
+msgstr ""
+
+#: inc/header/header-parts.php:31
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/customizer.php:184
+msgid "Twitter url"
+msgstr ""
+
+#: inc/customizer/general-customizer.php:139
+msgid "Uppercase"
+msgstr ""
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/customizer/customizer.php:429
+msgid "You can change blog readmore text."
+msgstr ""
+
+#: inc/customizer/general-customizer.php:133
+msgid "You can set header font uppercase or lowercase."
+msgstr ""
+
+#: inc/customizer/customizer.php:373 inc/customizer/customizer.php:538
+msgid "You can set standard container or full width container. "
+msgstr ""
+
+#: inc/customizer/customizer.php:590
+msgid "You can show or hide footer subscribe newsletter section"
+msgstr ""
+
+#: inc/customizer/customizer.php:576
+msgid "You can show or hide top footer from theme options"
+msgstr ""
+
+#: inc/customizer/customizer.php:92
+msgid "You can show or hide top header from theme options"
+msgstr ""
+
+#: inc/template-functions.php:159
+msgid "You need to install Elementor Plugin? "
+msgstr ""
